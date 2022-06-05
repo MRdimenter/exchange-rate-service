@@ -1,0 +1,20 @@
+giphy:
+  url: https://api.giphy.com/v1/gifs/random
+  api_key: SJGCqttA2K4u1VdNkbmzmIEziXv4sFEP
+  tags: rich, broke
+
+openexchangerates:
+  url: https://openexchangerates.org/api/
+  api_key: ca2671d306ad4b3e8292362a9627d50a
+
+
+time:
+  timezone: Europe/Moscow
+  date_format: yyyy-MM-dd
+
+spring_error:
+  gif_error:
+    BAD_REQUEST_STATUS_GIF: https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif
+  BAD_REQUEST_STATUS: Bad Request
+
+
